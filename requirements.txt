@@ -1,0 +1,6 @@
+typer
+python-dotenv
+requests
+rich
+google-genai 
+openai
